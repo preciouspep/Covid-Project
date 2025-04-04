@@ -160,4 +160,4 @@ where continent is not null
 group by location, population
 ---order by PercentagePopulationInfected desc;
 
-
+--- Thank you for reading
